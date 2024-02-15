@@ -1,0 +1,95 @@
+{
+    "stocks": [
+      {
+        "title": "Apple",
+        "percentage": "-0.025%",
+        "counter": 1000,
+        "status": "high"
+      },
+      {
+        "title": "Google",
+        "percentage": "-0.050%",
+        "counter": 500,
+        "status": "stable"
+      },
+      {
+        "title": "Microsoft",
+        "percentage": "-0.075%",
+        "counter": 200,
+        "status": "low"
+      },
+      {
+        "title": "Amazon",
+        "percentage": "-0.030%",
+        "counter": 800,
+        "status": "high"
+      },
+      {
+        "title": "Facebook",
+        "percentage": "-0.040%",
+        "counter": 700,
+        "status": "stable"
+      },
+      {
+        "title": "Tesla",
+        "percentage": "-0.060%",
+        "counter": 400,
+        "status": "low"
+      },
+      {
+        "title": "Netflix",
+        "percentage": "-0.070%",
+        "counter": 300,
+        "status": "high"
+      },
+      {
+        "title": "Intel",
+        "percentage": "-0.035%",
+        "counter": 750,
+        "status": "stable"
+      },
+      {
+        "title": "IBM",
+        "percentage": "-0.065%",
+        "counter": 350,
+        "status": "low"
+      },
+      {
+        "title": "Cisco",
+        "percentage": "-0.080%",
+        "counter": 150,
+        "status": "high"
+      },
+      {
+        "title": "Nvidia",
+        "percentage": "-0.045%",
+        "counter": 600,
+        "status": "stable"
+      },
+      {
+        "title": "Adobe",
+        "percentage": "-0.055%",
+        "counter": 450,
+        "status": "low"
+      },
+      {
+        "title": "Oracle",
+        "percentage": "-0.090%",
+        "counter": 100,
+        "status": "high"
+      },
+      {
+        "title": "Salesforce",
+        "percentage": "-0.085%",
+        "counter": 120,
+        "status": "stable"
+      },
+      {
+        "title": "PayPal",
+        "percentage": "-0.095%",
+        "counter": 80,
+        "status": "low"
+      }
+    ]
+  }
+  
