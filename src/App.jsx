@@ -19,7 +19,6 @@ function App() {
           <Filter />
         </Stack>
       </Box>
-      {/* <div></div> */}
     </>
   );
 }
